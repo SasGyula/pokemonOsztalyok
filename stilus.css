@@ -1,0 +1,8 @@
+.pokemonok{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.pokemonok img{
+    width: 50%;
+    height: auto;
+}
